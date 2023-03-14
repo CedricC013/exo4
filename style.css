@@ -9,4 +9,6 @@ h1 {
 
 .todo {
     text-align: center;
+    border: 1px solid dark;
+    border-radius: 20px;
 }
