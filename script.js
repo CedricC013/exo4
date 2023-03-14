@@ -1,5 +1,5 @@
 document.querySelector('button').addEventListener(
     'click',function(){
-        alert('CLICK')
+        alert('oops')
     }
 )
